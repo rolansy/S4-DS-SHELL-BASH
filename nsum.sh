@@ -6,4 +6,5 @@ for ((i=1; i<=n; i++)); do
 
 done
 echo "Sum of the $n terms is : $sum"
+read
 exit

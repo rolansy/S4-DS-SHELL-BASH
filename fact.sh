@@ -6,4 +6,5 @@ while [ $n -gt 0 ]; do
 	n=$(($n-1))
 done
 echo "Factorial of $nm = $f"
+read
 exit

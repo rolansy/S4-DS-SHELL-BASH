@@ -13,7 +13,6 @@ prime(){
 		echo "$num is a prime number"
 	fi
 }
-
 prime $n
-
-exit
+read
+#exit

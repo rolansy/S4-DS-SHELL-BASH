@@ -18,4 +18,5 @@ for((i=$a; i<=$b; i++)); do
 	fi
 done
 echo
+read
 exit

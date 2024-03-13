@@ -7,4 +7,5 @@ for ((i=1;i<=r;i++)); do
 	done
 	echo
 done
+read
 exit

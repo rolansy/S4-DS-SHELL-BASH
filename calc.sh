@@ -31,3 +31,4 @@ while true; do
 	echo "Invalid Input"
 	esac
 done
+exit

@@ -12,6 +12,6 @@ for((i=1;i<=n;i++)); do
 done
 
 echo "Second Largest Number is : $sl"
-
+read
 echo exit
 

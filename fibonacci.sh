@@ -16,4 +16,5 @@ fib(){
 echo -n "Fibonacci series upto $n terms : "
 fib $n
 echo
+read
 exit
